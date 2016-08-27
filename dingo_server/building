@@ -1,0 +1,3 @@
+Place Ararat synapse in synapse subdir.
+Then run: fpc -Fusynapse demoserver.lpr
+Run demoserver.lpr
